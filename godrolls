@@ -138,6 +138,12 @@ dimwishlist:item=310708513&perks=3250034553,1885400500,706527188,957782887#notes
 dimwishlist:item=310708513&perks=3250034553,1885400500,247725512,1015611457#notes:Zyze:  [Recommended MW: Any]
 dimwishlist:item=310708513&perks=1482024992,1087426260,1820235745,4104185692#notes:Zyze:  [Recommended MW: Any]
 
+// Talons of the Eagle
+dimwishlist:item=1982711279&perks=1482024992,3230963543,4267945040,3038247973#notes:Zyze:  [Recommended MW: Any]
+
+// The Guiding Sight
+dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,11551321#notes:Zyze:  [Recommended MW: Any]
+
 // The Number
 dimwishlist:item=2492081469&perks=1840239774,1885400500,4071163871,4049631843#notes:Zyze:  [Recommended MW: Any]
 
@@ -150,6 +156,12 @@ dimwishlist:item=432476743&perks=1482024992,1885400500,3643424744,3425386926#not
 dimwishlist:item=1481892490&perks=1482024992,1087426260,3643424744,4049631843#notes:Zyze:  [Recommended MW: Any]
 dimwishlist:item=1481892490&perks=1482024992,1087426260,3643424744,3425386926#notes:Zyze:  [Recommended MW: Any]
 dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2846385770#notes:Zyze:  [Recommended MW: Any]
+
+// The Scholar
+dimwishlist:item=2478792241&perks=4090651448,1885400500,706527188,2866798147#notes:Zyze:  [Recommended MW: Any]
+
+// The Scholar (Adept)
+dimwishlist:item=2386979999&perks=4090651448,1885400500,706527188,2866798147#notes:Zyze:  [Recommended MW: Any]
 
 // The Steady Hand
 dimwishlist:item=2220884262&perks=1926090093,1885400500,706527188,957782887#notes:Zyze:  [Recommended MW: Any]
@@ -177,6 +189,7 @@ dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3038247973#no
 
 // Trustee
 dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,2213355989#notes:Zyze:  [Recommended MW: Any]
+dimwishlist:item=1392919471&perks=4090651448,3142289711,1523832109,2213355989#notes:Zyze:  [Recommended MW: Any]
 
 // Vision of Confluence (Timelost)
 dimwishlist:item=690668916&perks=1482024992,2420895100,3418782618,4104185692#notes:Zyze:  [Recommended MW: Any]
